@@ -1,5 +1,5 @@
 package com.guestbook;
 
-public class TestNULL {
+public class Test3 {
 
 }
